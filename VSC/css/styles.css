@@ -1,0 +1,52 @@
+<style>body {
+    background-color: aliceblue;
+    color: rgb(12, 77, 131);
+    /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+a {
+    color: cadetblue;
+}
+
+a:visited {
+    color: burlywood;
+}
+
+img {
+    border: 2px solid teal;
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+}
+
+.vidcenter {
+    /* center something (title it and class it with the thing)("." is if it is a new style)*/
+    display: block;
+    margin: auto;
+}
+
+.rizz {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslateblue;
+    background-color: aquamarine;
+    border: dashed white;
+    font-size: larger;
+    font-style: italic;
+}
+/*positioning styles*/
+
+</style>
